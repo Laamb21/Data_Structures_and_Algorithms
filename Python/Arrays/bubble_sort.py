@@ -9,7 +9,7 @@ Time Complexity:
     Best Case - O(n)
     Average or Worst case - O(n^2)
 Space Complexity: 
-    Worst Case - O(1)
+    Worst Case - O(n)
 '''
 
 #Bubble Sort function
