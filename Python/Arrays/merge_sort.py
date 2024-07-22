@@ -23,7 +23,7 @@ def merge(arr, left, mid, right):
         leftArr[i] = arr[left + i]
 
     for j in range(subArr2):
-        rightArr[j] = arr[mid + 1]
+        rightArr[j] = arr[mid + 1 + j]
 
     #Initialize indicies of sub arrays
     idxOfSubArr1 = 0
