@@ -6,8 +6,8 @@ How Linear Search works:
     4. If value is not found by the end of the array, return -1 to indicate value was not found
 
 
-Time Complexity:
-Space Complexity: 
+Time Complexity: O(n)
+Space Complexity: O(1)
 '''
 
 #Linear Search function
