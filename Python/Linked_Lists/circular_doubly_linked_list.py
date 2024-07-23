@@ -43,7 +43,7 @@ startNode = node1
 print(currentNode.data, end=' -> ')
 currentNode = currentNode.next
 while currentNode != startNode:
-    print(currentNode.data, end=' -> ')
+    print(currentNode.data,  end=' -> ')
     currentNode = currentNode.next
 print("...")
 
